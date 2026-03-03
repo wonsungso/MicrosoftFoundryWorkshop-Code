@@ -6,7 +6,7 @@
     cp .env.example .env
     ```
     
-2. [`AI Foundry 포털`](https://ai.azure.com/)에 접속하여 생성한 프로젝트를 클릭한 뒤, 아래와 같이 `.env 파일`을 구성합니다.
+2. [`Microsoft Foundry 포털`](https://ai.azure.com/)에 접속하여 생성한 프로젝트를 클릭한 뒤, 아래와 같이 `.env 파일`을 구성합니다.
     
     ![image.png](./images/image.png)
     

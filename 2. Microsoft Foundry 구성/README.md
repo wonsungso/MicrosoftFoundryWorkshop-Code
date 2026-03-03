@@ -1,12 +1,12 @@
-# Azure AI Foundry 구성
+# Microsoft Foundry 구성
 
-## Azure AI Foundry 구성
+## Microsoft Foundry 구성
 
 ### 프로젝트 및 모델 구성
 
-1. [Azure AI Foundry 포털](https://ai.azure.com/)에 로그인합니다.
+1. [Microsoft Foundry 포털](https://ai.azure.com/)에 로그인합니다.
 2. 오른쪽 상단의 `Create new` 버튼을 클릭합니다.
-3. `Azure AI Foundry resource`를 선택하고 `Next` 버튼을 클릭합니다.
+3. `Microsoft Foundry resource`를 선택하고 `Next` 버튼을 클릭합니다.
 4. `Project`에 `<alias>-<date>`를 입력합니다. (예: annajeong-0720)
 5. Region을 `Korea Central`로 변경하고 `Create` 버튼을 클릭합니다.
     
@@ -16,7 +16,7 @@
     
     ![image.png](./images/image%201.png)
     
-7. AI Foundry 사용을 위한 사용자 권한을 할당하기 위해 상단의 `Fix me` 버튼을 클릭합니다.
+7. Microsoft Foundry 사용을 위한 사용자 권한을 할당하기 위해 상단의 `Fix me` 버튼을 클릭합니다.
 
 ### 모델 배포
 
