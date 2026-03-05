@@ -17,9 +17,13 @@
     ```
     
 3. 왼쪽 메뉴에서 `모델 + 엔드포인트`를 클릭합니다.
-4. 생성한 `LLM 모델`과 `임베딩 모델`을 `.env 파일`에 업데이트합니다.
+4. 생성한 `LLM 모델`과 `임베딩 모델`을 `.env` 파일에 업데이트합니다.
     
     ```bash
     MODEL_NAME="gpt-4o"
     TEXT_EMBEDDING_MODEL="text-embedding-3-small"
+    ```
+5. `.env` 파일을 적용합니다.
+    ```
+    source .env
     ```

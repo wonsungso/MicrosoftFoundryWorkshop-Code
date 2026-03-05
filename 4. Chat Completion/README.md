@@ -45,6 +45,10 @@
     SEARCH_ENDPOINT=<search-endpoint>
     SEARCH_API_KEY=<search-api-key>
     ```
+5. `.env` 파일을 적용합니다.
+    ```
+    source .env
+    ```
 
 ### 노트북 실행
 

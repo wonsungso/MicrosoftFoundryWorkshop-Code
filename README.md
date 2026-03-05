@@ -36,15 +36,15 @@
 ### 1. 준비
 | 노트북 | 설명 |
 |----------|-------------|
-| [1. 사전 준비](1.%20사전%20준비/) | 워크샵 실습 환경 구성 |
-| [2. Microsoft Foundry 구성](2.%20Microsoft%20Foundry%20구성/) | Microsoft Foundry 기본 사용법 학습 및 구성 |
-| [3. 인증 정보 구성](3.%20인증%20정보%20구성/) | 인증 정보 구성 |
+| [1. 사전 준비](./1.%20사전%20준비/README.md) | 워크샵 실습 환경 구성 |
+| [2. Microsoft Foundry 구성](./2.%20Microsoft%20Foundry%20구성/README.md) | Microsoft Foundry 기본 사용법 학습 및 구성 |
+| [3. 인증 정보 구성](./3.%20인증%20정보%20구성/README.md) | 인증 정보 구성 |
 
 ### 2. 주요 워크샵
 | Topic | Notebooks |
 |-------|-----------|
-| **Chat Completion & RAG** | • [Chat Completion & RaG](4.%20Chat%20Completion/) |
-| **Agent Development** | • [Agent Development](5.%20Agent%20Service/) |
+| **Chat Completion & RAG** | • [Chat Completion & RaG](./4.%20Chat%20Completion/1-basic-chat-completion.ipynb) |
+| **Agent Development** | • [Agent Development](./5.%20Agent%20Service/1-basics.ipynb) |
 
 ---
 
