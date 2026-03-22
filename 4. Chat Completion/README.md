@@ -4,11 +4,11 @@
 
 1. `Microsoft Foundry`에서 생성한 프로젝트의 세부 정보를 클릭합니다.
     
-    ![](./images/image_project_details.png)
+    <img src="./images/image_project_details.png" alt="프로젝트 세부 정보" width="100%" />
     
 2. `Resource group`을 기록해 둡니다.
 
-    ![resource group checking](./images/image_project_details_2.png)
+    <img src="./images/image_project_details_2.png" alt="리소스 그룹 확인" width="100%" />
 
 3. 브라우저의 새 탭에서 [`Azure Portal`](https://portal.azure.com/)에 접속합니다.
 4. 상단 메뉴 검색창에 `AI 검색`을 입력합니다.
@@ -19,7 +19,7 @@
     - 가격 책정 계층은 `Standard(표준)` 으로 둡니다.
 7. 나머지 설정은 그대로 두고 `검토 + 만들기` 버튼을 클릭하고 `만들기` 버튼을 클릭하여 리소스를 생성합니다.
 
-![](./images/image_create_ai_search.png)
+<img src="./images/image_create_ai_search.png" alt="Azure AI Search 생성" width="100%" />
 
 ## Microsoft Foundry 및 Azure AI Search 연걸
 
@@ -29,21 +29,21 @@
 3. 왼쪽 메뉴 `리소스`에서 `Connected resources`를 클릭하고 `+ 새 연결` 버튼을 클릭합니다.
 4. `Azure AI Search`를 선택한 후 `계속` 버튼을 클릭합니다.
 
-    ![](./images/image_connect_ai_search.png)
+    <img src="./images/image_connect_ai_search.png" alt="Azure AI Search 연결 시작" width="100%" />
 
 5. 리스트에서 생성한 `<alias>-ai-search`를 선택한 후 `연결` 버튼을 클릭합니다.
     
-    ![image.png](./images/image_connect_ai_search_2.png)
+    <img src="./images/image_connect_ai_search_2.png" alt="Azure AI Search 선택" width="100%" />
     
 6. `연결된 리소스` 의 목록을 확인합니다.
 
-    ![image.png](./images/image_connected_ai_search_3.png)
+    <img src="./images/image_connected_ai_search_3.png" alt="연결된 리소스 확인" width="100%" />
 
 ### AI Search 연결 구성 후
 
 1. 동일 메뉴에서 `키` / `대상` 값을 복사하여 아래와 같이 `.env 파일`을 업데이트 합니다.
     
-    ![image.png](./images/image_search_credential.png)
+    <img src="./images/image_search_credential.png" alt="검색 자격 증명 확인" width="100%" />
     
     ```bash
     SEARCH_INDEX_NAME="healthtips-index"
