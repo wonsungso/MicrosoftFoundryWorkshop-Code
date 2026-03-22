@@ -19,7 +19,7 @@ git clone https://github.com/wonsungso/AzureAIFoundryWorkshop-Code.git
 1. 왼쪽 메뉴에서 `Extensions` 을 클릭합니다.
 2. `Python` 확장을 설치합니다.
     
-    <img src="./images/image.png" alt="Python extension installation" width="100%" />
+    <img src="./images/image.png" alt="Python extension installation" width="700" />
     
 3. 같은 방법으로 `Jupyter`, `Polyglot Notebooks` 확장을 설치합니다.
 > 참고. Polyglot Notebooks 설치 전 .NET SDK 최신버전 설치를 권장합니다.

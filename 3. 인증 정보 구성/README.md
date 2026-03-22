@@ -8,7 +8,7 @@
     
 2. [`Microsoft Foundry 포털`](https://ai.azure.com/)에 접속하여 생성한 프로젝트를 클릭한 뒤 다음 정보를 복사/붙여넣기 하여, 아래와 같이 `.env 파일`을 구성합니다.
     
-    <img src="./images/image_endpoint_key.png" alt="엔드포인트와 API 키 확인" width="100%" />
+    <img src="./images/image_endpoint_key.png" alt="엔드포인트와 API 키 확인" width="700" />
     
     ```bash
     PROJECT_ENDPOINT="https://<resource>.services.ai.azure.com/api/projects/<project_name>"
@@ -23,4 +23,4 @@
     TEXT_EMBEDDING_MODEL="text-embedding-3-small"
     ```
 
-    <img src="./images/image_deployed_models.png" alt="배포된 모델 확인" width="100%" />
+    <img src="./images/image_deployed_models.png" alt="배포된 모델 확인" width="700" />

@@ -12,7 +12,7 @@
 5. 나머지 옵션은 기본값으로 두고 `만들기`를 클릭합니다.
 6. 프로젝트 생성이 완료될 때까지 잠시 기다립니다.
     
-    <img src="./images/image_project_create.png" alt="프로젝트 만들기" width="100%" />
+    <img src="./images/image_project_create.png" alt="프로젝트 만들기" width="700" />
     
 6. 프로젝트가 열리면 좌측 상단의 프로젝트 이름을 클릭합니다.
 7. 드롭다운 메뉴에서 `프로젝트 세부 정보`를 클릭합니다.
@@ -20,7 +20,7 @@
 9. 이후 실습에서 반복해서 사용할 **리소스 그룹 이름**을 메모해 둡니다.
 10. 필요하면 새 브라우저 탭에서 [Azure 포털](https://portal.azure.com)을 열고 같은 리소스 그룹이 생성되었는지 확인합니다.
 
-    <img src="./images/image_project_details.png" alt="프로젝트 세부 정보" width="100%" />
+    <img src="./images/image_project_details.png" alt="프로젝트 세부 정보" width="700" />
 
 ### 모델 배포
 
@@ -30,10 +30,10 @@
 4. `배포` > `사용자 지정 설정`을 클릭합니다.
 5. 배포 이름은 기본값 `gpt-4o` 를 사용하여 배포합니다.
     
-    <img src="./images/image_deploy_gpt4o.png" alt="gpt-4o 배포" width="100%" />
+    <img src="./images/image_deploy_gpt4o.png" alt="gpt-4o 배포" width="700" />
 
 ### 임베딩 모델 배포
 
 1. 위와 동일하게 모델 리스트에서 `text-embedding-3-small`을 를 배포합니다.
     
-    <img src="./images/image_deploy_text_embedding.png" alt="text-embedding-3-small 배포" width="100%" />
+    <img src="./images/image_deploy_text_embedding.png" alt="text-embedding-3-small 배포" width="700" />
