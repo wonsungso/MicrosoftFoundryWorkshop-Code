@@ -3,7 +3,7 @@
 > 
 > 기존 Classic 포털 기반 워크샵은 [AzureAIFoundryWorkshop-Code](https://github.com/wonsungso/AzureAIFoundryWorkshop-Code)을 참조하세요.
 
-# Microsoft Foundry Workshop - Code
+# Microsoft Foundry Workshop - Code & New Portal
 
 ## 개요
 
